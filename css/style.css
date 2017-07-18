@@ -1,0 +1,73 @@
+body{
+	background-color: grey;
+}
+
+#hola{
+	background-color: white;
+	color: black;
+	margin-top: 30px;
+}
+
+#buscar{
+
+	width: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#uno{
+
+	font-size: 15px;
+}
+
+#dos{
+	font-size: 10px;
+}
+
+#profile{
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+}
+
+#comentario{
+	margin-top: -40px;
+	margin-bottom: 20px;
+	
+}
+
+#linea{
+	border: 1px solid black;
+	width: 450px;
+
+}
+
+#linea2{
+	border: 1px solid black;
+	width: 450px;
+
+}
+
+#guardar{
+	background-color: white;
+
+}
+
+#partecomentario{
+	margin-top: 30px;
+
+	
+}
+#comentario2{
+	background-color: #F0F0F0;
+	height: 300px
+
+}
+
+#agrega{
+	width: 400px;
+	margin-bottom: -100px;
+}
+
+.imprime{
+
+}
